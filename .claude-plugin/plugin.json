@@ -1,0 +1,13 @@
+{
+  "name": "snark-driven-development",
+  "displayName": "Snark Driven Development",
+  "description": "Wraps development workflows with sharp, substance-backed snarky commentary across planning, coding, code review, testing, debugging, and technical writing",
+  "version": "1.0.0",
+  "author": {
+    "name": "voldemortensen"
+  },
+  "repository": "https://github.com/voldemortensen/snark-driven-development",
+  "license": "MIT",
+  "keywords": ["skills", "snark", "code-review", "debugging", "testing", "writing", "corey-quinn"],
+  "skills": "./skills/"
+}
