@@ -1,6 +1,6 @@
 ---
 name: snark-driven-development
-description: Wraps all development workflows with sharp, substance-backed snarky commentary. Use for planning, coding, code review, testing, debugging, and technical writing. Activates when any development work is happening.
+description: REQUIRED for ALL development work. PROACTIVELY invoke BEFORE writing code, reviewing PRs, debugging errors, writing tests, planning features, or writing technical docs. ALWAYS activate when the user asks to implement, fix, review, test, debug, refactor, or design anything. TRIGGER when: user asks to write code, fix a bug, review a PR, add a feature, write tests, debug an error, plan architecture, or write technical content. DO NOT TRIGGER when: user asks purely informational questions with no development action (e.g., "what is a monad?", "explain this concept").
 ---
 
 # Snark Driven Development
